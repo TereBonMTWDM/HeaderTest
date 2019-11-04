@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiService", "ApiService\ApiService.csproj", "{8B9DE49E-C535-4CEF-9F25-BB4D47FDF96A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiService.Tests", "ApiService.Tests\ApiService.Tests.csproj", "{D5D01D59-95D7-4800-AC99-EBD58EC88767}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DE66EFD1-2D71-4104-9782-84E0E3BC35BA}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B9DE49E-C535-4CEF-9F25-BB4D47FDF96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9DE49E-C535-4CEF-9F25-BB4D47FDF96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9DE49E-C535-4CEF-9F25-BB4D47FDF96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9DE49E-C535-4CEF-9F25-BB4D47FDF96A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D01D59-95D7-4800-AC99-EBD58EC88767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D01D59-95D7-4800-AC99-EBD58EC88767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D01D59-95D7-4800-AC99-EBD58EC88767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D01D59-95D7-4800-AC99-EBD58EC88767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
